@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FastGigs/FastGigs.iml" filepath="$PROJECT_DIR$/FastGigs/FastGigs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fastgigs.iml" filepath="$PROJECT_DIR$/fastgigs.iml" />
+    </modules>
+  </component>
+</project>

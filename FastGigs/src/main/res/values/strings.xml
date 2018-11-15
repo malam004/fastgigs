@@ -1,0 +1,49 @@
+<resources>
+
+    <string name="app_name">FastGigs</string>
+    <string name="action_share">Share</string>
+    <string name="up">Up</string>
+    <string name="sign_in">SIGN IN with Google</string>
+    <string name="log_in">LOG IN</string>
+    <string name="connectivity_msg">Please check your Internet connection!</string>
+    <string name="info">A Mobile App Platform for Gigs</string>
+    <string name="login_msg">Already a member? Login</string>
+    <string name="create_account">Create Account(with Google)</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="title_activity_log_in">Log In</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="accept_gigs">Accept this gig</string>
+    <string name="sign_in_toast">You are signed in. Log in now!</string>
+    <string name="task_desc">Migrate Code to IE11</string>
+
+    <string name="make_money">Make money with Firebase Admon</string>
+    <string name="integration">Easy integration, secure money</string>
+    <string name="google_ad_id">ca-app-pub-8304962084681202/4590714101</string>
+
+
+
+    <!-- Application name. -->
+
+    <!-- Heading for the app widget ID panel. -->
+    <string name="widget_id_label">Widget ID</string>
+
+    <!-- Heading for the updated panel. -->
+    <string name="widget_update_label">Last updated</string>
+
+    <!-- Button label for the update button. -->
+    <string name="widget_button_update">Update now</string>
+
+    <!-- Format string for the date & count text view -->
+    <string name="date_count_format">%1$d @%2$s</string>
+
+
+</resources>

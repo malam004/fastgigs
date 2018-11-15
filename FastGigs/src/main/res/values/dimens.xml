@@ -1,0 +1,21 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_body_text_size">22sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <dimen name="fab_margin">24dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+
+    <!-- Widgets before API 14 required a margin. After API 14 the margin is
+    built in. Devices previous to API 14 use this file (and this value.) Devices
+    that use API 14 or higher use the dimension from res/values-14/dimens.xml
+    -->
+    <dimen name="widget_margin">8dp</dimen>
+
+
+</resources>
